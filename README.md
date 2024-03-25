@@ -2,6 +2,6 @@
 （WIP）数字人直播方案
 
 - 弹幕抓取：https://github.com/HappyUncle/blivedm
-- GPT：
+- GPT：https://github.com/HappyUncle/szrzb/discussions/1
 - 数字人表达：https://github.com/HappyUncle/metahuman-stream
 - 直播：obs
